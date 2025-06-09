@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nav_bar_background">#0D1117</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#99B1C9</color>
+    <color name="gray_inactive">#808080</color>
+    <color name="selected_option_border">#4461F2</color>
+    <color name="dot_selected_color">#FFFFFF</color>
+    <color name="dot_unselected_color">#66FFFFFF</color>
+    <color name="card_background">#1C1C1E</color>
+</resources>
